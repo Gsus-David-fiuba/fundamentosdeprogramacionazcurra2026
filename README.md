@@ -30,3 +30,9 @@ Contiene los ejercicios de la guía con resoluciones (a mi manera).
 - ### Sólo un return por función
 - ### Modularizar las funciones para reutilizacion
 - ### No hacer cuentas o condicionales innecesarias en funciones int o booleanas, puede hacer la condición en el return
+
+
+##Arreglos
+- ### Los arreglos tienen que tener el mismo tipo o conceptos. Es decir, si el arreglo es de cierto dato, sólo se ingresa ese tipo de dato (ej: arreglo de ml llovidos todos serán de ml llovidos). Conceptualmente TODOS los elementos tienen que ser lo mismo.
+
+
