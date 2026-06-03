@@ -40,3 +40,10 @@ Contiene los ejercicios de la guía con resoluciones (a mi manera).
  - En la parte de modularización, si vas a cargar una palabra o cadena que tiene que validar ciertos parámetros, tienes que hacer una función para cargar la palabra, y otra para la obtener la palabra
  - En linux para limpiar la cadena no se usa fflush, sólo funciona en Windows.
  - Si hay que buscar una palabra o un elemento dentro de un vector y está desordenado, se hace de forma secuencial, si está ordenada, entonces se usa búsqueda binaria.
+
+
+
+### Archivos
+- No sé qué más
+- En los exámenes normalmente se toman manejo de archivos más que nada binario con por ejemplo una salida hacia un archivo de texto
+- 
